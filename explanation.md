@@ -1,0 +1,3 @@
+- The countSeniors function counts the number of passengers older than 60 from a list of passenger details. 
+- It extracts the age information from each detail string, converts it to an integer, and increments a counter if the age is greater than 60. 
+- Finally, it returns the total count of such passengers
